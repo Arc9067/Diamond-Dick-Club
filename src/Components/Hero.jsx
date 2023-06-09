@@ -8,7 +8,7 @@ import dextool from "../assets/dextool.svg";
 
 const Hero = () => {
   return (
-    <section className="py-[50px] w-full">
+    <section className="hero py-[50px] w-full">
       <div className="container text-center flex justify-center items-center flex-col">
         {" "}
         <img src={Logo} alt="" className="w-[30rem]" />
